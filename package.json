@@ -1,0 +1,32 @@
+{
+  "name": "tamil-assembly",
+  "version": "1.0.0",
+  "description": "Tamil Assembly Youtube Skill for Alexa",
+  "main": "index.js",
+  "dependencies": {
+    "dropbox-v2-api": "^2.1.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "googleapis": "^20.0.1",
+    "ical": "^0.5.0",
+    "stream": "^0.0.2",
+    "stream-transcoder": "^0.0.5",
+    "wait-one-moment": "^0.0.2",
+    "youtube-search": "^1.0.10",
+    "ytdl-core": "^0.20.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/issues"
+  },
+  "homepage": "https://github.com/"
+}
